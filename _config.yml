@@ -28,7 +28,7 @@ author:
   location         : "Oxford, UK"
   employer         : "Oxford University, Oxford-Man Institute"
   uri              : # URL
-  email            : "harrison.waldon@eng.ox.ac.uk" 
+  email            : "harrison.waldon AT eng DOT ox DOT ac DOT uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -42,12 +42,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "harrisonwaldon"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
