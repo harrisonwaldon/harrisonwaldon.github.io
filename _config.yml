@@ -22,20 +22,20 @@ repository               : "harrisonwaldon/harrisonwaldon.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Harrison Waldon"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoc researching deep learning for decision making in complex systems"
+  location         : "Oxford, UK"
+  employer         : "Oxford University, Oxford-Man Institute"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "harrison.waldon@eng.ox.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=UZSXruoAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : #
+  pubmed           : #
   researchgate     : # URL
 
   # Repositories and software development
