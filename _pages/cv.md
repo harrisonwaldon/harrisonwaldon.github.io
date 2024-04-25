@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, UT Austin, August 2018 - June 2023
+* Visiting Student, Oxford University, Oxford-Man Institute, April 2022 - August 2022
+* Fulbright Scholar, Ethnomusicology, October 2017 - June 2018
+* A.B. in Mathematics, Princeton University, September 2013 - June 2017
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2023 - present: Postdoctoral Research Assistant
+  * Oxford University, Oxford-Man Institute
+  * Supervisor: [\`Alvaro Cartea](https://sites.google.com/site/alvarocartea/home)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2023 - August 2023: Equity Quant Intern
+  * Bank of America
+  * Developed neural network based derivatives pricing algorithms in PyTorch for structured products
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematical Analysis
+  * Probability, Statistics
+  * [Partial, Ordinary, Stochastic] Differential Equations
+* Python
+  * Pytorch
+
+
+Preprints
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
