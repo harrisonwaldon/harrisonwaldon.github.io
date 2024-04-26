@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Current Projects
 
 ### Path-Dependent Closed-Loop Control with Rough Path Signatures
 
