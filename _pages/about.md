@@ -7,7 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoc at Oxford University in the Oxford-Man Institute studying deep learning methods for decision making in complex systems. More soon!
+I am a Postdoc at the [Oxford-Man Institute](https://oxford-man.ox.ac.uk/) at Oxford University researching deep learning methods for decision making in complex systems, where I am supervised by [Álvaro Cartea](https://sites.google.com/site/alvarocartea/home). I have a PhD in Mathematics from the University of Texas at Austin, where I was supervised by [Thaleia Zariphopoulou](https://web.ma.utexas.edu/users/zariphop/). I received my AB in Mathematics from Princeton University, where I wrote my senior thesis 
+with [Vlad Vicol](https://cims.nyu.edu/~vicol/). In between undergrad and graduate school, I was a Fulbright scholar in Russia, based at the Tuvan Institute for the Humanities and Applied Social and Economic Studies, where I researched [Tuvan folk music](https://www.youtube.com/watch?v=V76psBrEypg). 
+
+
+Research Interests
+======
+Broadly, my research interests lie in using machine learning methods to understand and assist decision making in complex systems. In my PhD, I researched the theoretical and empirical behavior of machine learning algorithms in multi-agent systems from the perspective of dynamical systems. More recently, my work has focused on deep learning methods for optimal control, including deep PDE solving, time-series analysis, and learning to optimize. 
+
+Contact
+======
+harrison DOT waldon AT eng DOT ox DOT ac DOT uk
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
