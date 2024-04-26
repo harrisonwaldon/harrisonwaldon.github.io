@@ -24,9 +24,9 @@ author:
   avatar           : "profile_picture.png"
   name             : "Harrison Waldon"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc researching deep \ learning for decision making \ in complex systems"
+  bio              : "Postdoc, Oxford-Man Institute"
   location         : "Eagle House, OX2 6ED"
-  employer         : "Oxford-Man Institute"
+  employer         : #"Oxford-Man Institute"
   uri              : # URL
   email            : "harrison.waldon AT eng DOT ox DOT ac DOT uk" 
 
