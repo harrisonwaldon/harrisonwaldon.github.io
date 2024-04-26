@@ -15,6 +15,9 @@ Research Interests
 ======
 Broadly, my research interests lie in using machine learning methods to understand and assist decision making in complex systems. In my PhD, I researched the theoretical and empirical behavior of machine learning algorithms in multi-agent systems from the perspective of dynamical systems. More recently, my work has focused on deep learning methods for optimal control, including deep PDE solving, time-series analysis, and learning to optimize. 
 
+<!-- Preprints and Working Papers
+====== -->
+
 Contact
 ======
 harrison DOT waldon AT eng DOT ox DOT ac DOT uk
