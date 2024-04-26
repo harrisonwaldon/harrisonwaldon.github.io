@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+[Academic CV](https://harrisonwaldon.github.io/files/Academic_CV_4-26-24.pdf), last updated 4-26-24.
+
+[One-page resume](https://harrisonwaldon.github.io/files/resume_4-26-24.pdf), last updated 4-26-24.
+
 Positions Held
 ======
 * Postdoctoral Research Assistant, Oxford-Man Institute, Oxford University, September 2023 - present

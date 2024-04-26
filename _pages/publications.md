@@ -1,9 +1,14 @@
 ---
 layout: archive
-title: "Current Projects"#
+title: "Research"#
 permalink: /publications/
 author_profile: true
 ---
+
+You can also find my research on my [Google Scholar](https://scholar.google.com/citations?user=UZSXruoAAAAJ&hl=en&oi=ao) page.
+
+Current Projects
+======
 
 ### Path-Dependent Closed-Loop Control with Rough Path Signatures
 
