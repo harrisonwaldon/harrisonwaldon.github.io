@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 I am a Postdoc at the [Oxford-Man Institute](https://oxford-man.ox.ac.uk/) at Oxford University, where I am supervised by [Álvaro Cartea](https://sites.google.com/site/alvarocartea/home). I have a PhD in Mathematics from the University of Texas at Austin, where I was supervised by [Thaleia Zariphopoulou](https://web.ma.utexas.edu/users/zariphop/). I received my AB in Mathematics from Princeton University, where I wrote my senior thesis 
-with [Vlad Vicol](https://cims.nyu.edu/~vicol/). In between undergrad and graduate school, I was a Fulbright scholar in Russia, based at the Tuvan Institute for the Humanities and Applied Social and Economic Studies, where I researched [Tuvan folk music](https://www.youtube.com/watch?v=V76psBrEypg). 
+with [Vlad Vicol](https://cims.nyu.edu/~vicol/). 
+<!-- In between undergrad and graduate school, I was a Fulbright scholar in Russia, based at the Tuvan Institute for the Humanities and Applied Social and Economic Studies, where I researched [Tuvan folk music](https://www.youtube.com/watch?v=V76psBrEypg).  -->
 
 
 Research Interests
