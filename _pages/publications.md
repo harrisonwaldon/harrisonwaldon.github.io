@@ -10,20 +10,16 @@ You can also find my research on my [Google Scholar](https://scholar.google.com/
 Current Projects
 ======
 
-### Path-Dependent Closed-Loop Control with Rough Path Signatures
+### Smoothing Methods for Deep DC Optimal Power Flow
 
-### Deep Learning Methods for Accelerating Optimization and Model Predictive Control
+### Optimal Portfolio Rebalancing with Reinforcement Learning
+
+### Measure-Flow Hamiltonian Neural Networks for the Vlasov Equation
 
 <br />
 
 Preprints and Working Papers
 ======
-
-### [DARE: The Deep Adaptive Regulator for Closed-Loop Predictive Control](https://harrisonwaldon.github.io/files/dare.pdf)
-#### [Fayçal Drissi](https://www.faycaldrissi.com/)\*, **Harrison Waldon**\*, [Yannick Limmer](https://scholar.google.com/citations?user=ArvBldAAAAAJ&hl=en)\*, [Álvaro Cartea](https://sites.google.com/site/alvarocartea/home)
-
-Abstract: A fundamental challenge in optimal control (OC) and machine learning is how to find the optimal policy of an agent that operates in changing and uncertain environments.Traditional OC methods face challenges in scalability and adaptability due to the curse-of-dimensionality and the reliance on fixed prior models of the environment. Model Predictive Control (MPC) addresses these issues but is limited to open-loop controls, i.e., policies without feedback to adapt. Another approach is Reinforcement Learning (RL) which can scale well to high-dimensional applications but is often computationally expensive and can be unreliable in highly stochastic continuous-time setups. This paper presents the Deep Adaptive Regulator (DARE) which combines deep learning with OC to compute closed-loop adaptive policies by solving continuously updated OC problems that explicitly trade off exploration with exploitation. We show that our method effectively transfers learning to unseen environments and is suited for online decision-making in environments that change in real time. We test DARE in various setups and demonstrate its superior performance over traditional methods, especially in scenarios with misspecified priors and nonstationary dynamics.
-
 
 ### **[Algorithmic Collusion and a Folk Theorem from Learning with Bounded Rationality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4293831)** (*Submitted*)
 #### [Álvaro Cartea](https://sites.google.com/site/alvarocartea/home)\*, [Patrick Chang](https://sites.google.com/view/patrickchang/home?authuser=1)\*, [Jose Penalva](https://www.josepenalva.com/)\*, **Harrison Waldon**\*
@@ -37,7 +33,13 @@ Abstract: We introduce the algorithmic learning equations, a set of ordinary dif
 
 Publications
 ======
-### **[Rough Transformers for Continuous and Efficient Time-Series Modelling](https://arxiv.org/abs/2403.10288)** (ICLR TS4H 2024)
+
+### [DARE: The Deep Adaptive Regulator for Closed-Loop Predictive Control](https://openreview.net/forum?id=vTtldsicU9&referrer=%5Bthe%20profile%20of%20Fay%C3%A7al%20Drissi%5D(%2Fprofile%3Fid%3D~Fay%C3%A7al_Drissi1)) (ICML FoRLaC 2024)
+#### [Fayçal Drissi](https://www.faycaldrissi.com/)\*, **Harrison Waldon**\*, [Yannick Limmer](https://scholar.google.com/citations?user=ArvBldAAAAAJ&hl=en)\*, [Álvaro Cartea](https://sites.google.com/site/alvarocartea/home)
+
+Abstract: A fundamental challenge in continuous-time optimal control (OC) is the efficient computation of adaptive policies when agents act in unknown, uncertain environments. Traditional OC methods, such as dynamic programming, face challenges in scalability and adaptability due to the curse-of-dimensionality and the reliance on fixed models of the environment. One approach to address these issues is Model Predictive Control (MPC), which iteratively computes open-loop controls over a receding horizon. However, classical MPC algorithms typically also assume a fixed environment. Another approach is Reinforcement Learning (RL) which scales well to high-dimensional setups but is often sample inefficent. Certain RL methods can also be unreliable in highly stochastic continuous-time setups and may be unable to generalize to unseen environments. This paper presents the Deep Adaptive Regulator (DARE) which uses physics-informed neural network based approximations to the agent's value function and policy which are trained online to adapt to unknown environments. To manage uncertainty of the environment, DARE optimizes an augmented reward objective which dynamically trades off exploration with exploitation. We show that our method effectively adapts to unseen environments in settings where ``classical'' RL fails and is suited for online adaptive decision-making in environments that change in real time.
+
+### **[Rough Transformers for Continuous and Efficient Time-Series Modelling](https://arxiv.org/abs/2405.20799)** (ICLR TS4H 2024)
 #### [Fernando Moreno-Pino](https://fmorenopino.github.io/)\*, [Álvaro Arroyo](https://scholar.google.co.uk/citations?user=P1qHzNYAAAAJ&hl=en)\*, **Harrison Waldon**\*, [Xiaowen Dong](https://web.media.mit.edu/~xdong/), [Álvaro Cartea](https://sites.google.com/site/alvarocartea/home)
 Abstract: Time-series data in real-world medical settings typically exhibit long-range dependencies and are observed at non-uniform intervals. In such contexts, traditional sequence-based recurrent models struggle. To overcome this, researchers replace recurrent architectures with Neural ODE-based models to model irregularly sampled data and use Transformer-based architectures to account for long-range dependencies. Despite the success of these two approaches, both incur very high computational costs for input sequences of moderate lengths and greater. To mitigate this, we introduce the Rough Transformer, a variation of the Transformer model which operates on continuous-time representations of input sequences and incurs significantly reduced computational costs, critical for addressing long-range dependencies common in medical contexts. In particular, we propose multi-view signature attention, which uses path signatures to augment vanilla attention and to capture both local and global dependencies in input data, while remaining robust to changes in the sequence length and sampling frequency. We find that Rough Transformers consistently outperform their vanilla attention counterparts while obtaining the benefits of Neural ODE-based models using a fraction of the computational time and memory resources on synthetic and real-world time-series tasks.
 

@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Academic CV](https://harrisonwaldon.github.io/files/Academic_CV_4-26-24.pdf), last updated 4-26-24.
+[PDF Resume](https://harrisonwaldon.github.io/files/harrison_waldon_resume_website.pdf), last updated 9-4-24.
 
-[One-page resume](https://harrisonwaldon.github.io/files/resume_4-26-24.pdf), last updated 4-26-24.
 
 Positions Held
 ======
@@ -22,7 +21,7 @@ Education
 ======
 * Ph.D in Mathematics, UT Austin, August 2018 - June 2023
 * Visiting Student, Oxford University, Oxford-Man Institute, April 2022 - August 2022
-* Fulbright Scholar, Ethnomusicology, October 2017 - June 2018
+* Fulbright Student Researcher, Ethnomusicology, October 2017 - June 2018
 * A.B. in Mathematics, Princeton University, September 2013 - June 2017
 
 
